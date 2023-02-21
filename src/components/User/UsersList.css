@@ -1,0 +1,22 @@
+.userList {
+    margin-top: 55px;
+    background-color: rgba(99, 246, 246, 0.457);
+    width: 70%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(33.33%, 1fr));
+
+}
+
+.userList li {
+    list-style-type: none;
+    display: block;
+    border: 1px solid #ccc;
+    margin: 0 auto 10px;
+    padding: 0.5rem;
+    text-align: center;
+    background-color: white
+}
+
+.editBtn {
+    margin-left: 5px;
+}

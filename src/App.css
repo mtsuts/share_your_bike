@@ -1,0 +1,24 @@
+
+.closeBtn {
+    display: block;
+    margin: 20px auto;
+}
+
+.showBtn {
+    display: block;
+    margin: 20px auto;
+
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    text-align: center;
+    color:rgb(34, 33, 33);
+    
+}
+h1 span {
+    background-color: rgba(233, 227, 219, 0.407);
+    padding: 10px;
+    border-radius: 25px;
+}
